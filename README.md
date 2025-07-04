@@ -1,36 +1,27 @@
 # web
-**Тестирование веб-приложений**
+**Testing Web Applications**
 
-Тест-план для приложения "Интернет-магазин"
+_I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) and created various types of test documentation:_
 
-[Ссылка на Google таблицу с тест-планом](https://docs.google.com/spreadsheets/d/1zxcMc61QEJYnZZRdTpQEl5DcTNotMYoDTigiqpdGXkQ/edit?usp=sharing)
+[Test plan](https://drive.google.com/file/d/15xhy3YdN_thE8xiMYBD0UvBv8j7X0BMN/view?usp=sharing) for the app "Online store" discribe the testing strategy and scope, objectives, test types, resources, schedule, and entry/exit criteria. It defines what will be tested, how, when, and by whom.
 
-Чек-лист для тестирования Корзины и Оформление заказа
-
-[Ссылка на Google таблицу](https://docs.google.com/spreadsheets/d/1JSr7-QDefEhA3EuwYRQ9RDDXSCT-j5sF8ssgT62qvXI/edit?gid=0#gid=0&range=A73:A93)
+[Checklist](https://docs.google.com/spreadsheets/d/1JSr7-QDefEhA3EuwYRQ9RDDXSCT-j5sF8ssgT62qvXI/edit?gid=0#gid=0&range=A73:A93) for testing the shopping cart and the payment module.
  
-Тесты-кейсы для тестирования Корзины и Оформление заказа
+[Test cases via QASE](https://github.com/natlaxmat/web/blob/main/Cart_and_Order_management.pdf) for testing the shopping cart and the payment module.
 
-[Ссылка на тестовый набор](https://app.qase.io/project/G10?author=336&previewMode=side&suite=140)
+[Test run via QASE](https://github.com/natlaxmat/web/blob/main/G10-Express%2Brun%2B2025_05_13.pdf) for the shopping cart and the payment module.
 
-Тестовый набор для модуля Корзины в формате PDF:
+[Bug Report example via YouTrack](https://github.com/natlaxmat/web/blob/main/Web_app_testing_docs.xlsx) for the shopping cart and the payment module.
 
-[Ссылка на PDF файл](https://github.com/natlaxmat/web/blob/main/Cart_management.pdf)
 
-Тестовый набор для модуля Оформление заказа в формате PDF:
+**Interception and modification of traffic**
 
-[Ссылка на PDF файл](https://github.com/natlaxmat/web/blob/main/Order_management.pdf)
+_Intercepting and modifying traffic is essential in testing to analyze how an application communicates with the server. It helps identify issues with requests, responses, headers, and data handling. This technique is also useful for simulating edge cases or testing error handling without changing the backend_
 
-Отчеты о дефекте для Корзины и Оформление заказа
+_I completed several assignments to intercept and modify traffic. I used some tools Charles Proxy:_
 
-[Ссылка на отчёты о дефекте в формате XLSX](https://github.com/natlaxmat/web/blob/main/Web_app_testing_docs.xlsx)
+[Breakpoints proxy](https://github.com/natlaxmat/web/blob/main/1.Breakpoints_web.mp4) for [the Task 1](https://github.com/natlaxmat/web/blob/main/Task_1.txt)
 
-[Ссылка на тестовый прогон в формате PDF](https://github.com/natlaxmat/web/blob/main/G10-Express%2Brun%2B2025_05_13.pdf)
+[Rewrite Tool](https://github.com/natlaxmat/web/blob/main/2.Rewrite_web.mp4) for [the Task 2](https://github.com/natlaxmat/web/blob/main/Task_2.txt)
 
-Перехват и изменение трафика
-
-[Ссылка на видео для задания 1](https://github.com/natlaxmat/web/blob/main/1.Breakpoints_web.mp4)
-
-[Ссылка на видео для задания 2](https://github.com/natlaxmat/web/blob/main/2.Rewrite_web.mp4)
-
-[Ссылка на видео для задания 3](https://github.com/natlaxmat/web/blob/main/3.Map%20remote_web.mp4)
+[Map remote Tool](https://github.com/natlaxmat/web/blob/main/3.Map%20remote_web.mp4) for [the Task 3](https://github.com/natlaxmat/web/blob/main/Task_3.txt)
