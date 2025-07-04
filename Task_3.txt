@@ -1,1 +1,4 @@
-Sometimes in the work of a tester it is necessary to transfer requests from one environment to another. For example, we cannot conduct direct testing on the production, but must knock on the testing environment. Let's assume that https://demoshopping.ru is the production version, and https://qa.demoshopping.ru is the QA stand. Your task is to redirect the request from Prod to QA.
+Sometimes in the work of a tester it is necessary to transfer requests from one environment to another.
+For example, we cannot conduct direct testing on the production, but must knock on the testing environment.
+Let's assume that https://demoshopping.ru is the production version, and https://qa.demoshopping.ru is the QA stand.
+Your task is to redirect the request from Prod to QA.
