@@ -18,7 +18,7 @@ _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) a
 
 _Intercepting and modifying traffic is essential in testing to analyze how an application communicates with the server. It helps identify issues with requests, responses, headers, and data handling. This technique is also useful for simulating edge cases or testing error handling without changing the backend_
 
-_I completed several assignments to intercept and modify traffic. I used some tools Charles Proxy:_
+_During my QA practice, I used tools like Charles Proxy to inspect and modify HTTP requests and responses_
 
 [Breakpoints proxy](https://github.com/natlaxmat/web/blob/main/1.Breakpoints_web.mp4) for [the Task 1](https://github.com/natlaxmat/web/blob/main/Task_1.txt)
 
