@@ -1,5 +1,5 @@
 # web
-**Testing Web Applications**
+## 🌐 **Testing Web Applications** ##
 
 _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) and created various types of test documentation:_
 
@@ -14,7 +14,7 @@ _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) a
 [Bug Report example via YouTrack](https://github.com/natlaxmat/web/blob/main/Web_app_testing_docs.xlsx) for the shopping cart and the payment module.
 
 
-**Interception and modification of traffic**
+## 🕵️‍♀️ **Interception and modification of traffic** ##
 
 _Intercepting and modifying traffic is essential in testing to analyze how an application communicates with the server. It helps identify issues with requests, responses, headers, and data handling. This technique is also useful for simulating edge cases or testing error handling without changing the backend_
 
