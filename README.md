@@ -14,7 +14,7 @@ _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) a
 [Bug Report example via YouTrack](https://github.com/natlaxmat/web/blob/main/Web_app_testing_docs.xlsx) for the shopping cart and the payment module.
 
 
-## 🕵️‍♀️ **Interception and modification of traffic** ##
+🕵️‍♀️ **Interception and modification of traffic** 
 
 _During my QA practice, I used tools like Charles Proxy to inspect and modify HTTP requests and responses:_
 
