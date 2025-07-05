@@ -18,8 +18,8 @@ _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) a
 
 _During my QA practice, I used tools like Charles Proxy to inspect and modify HTTP requests and responses:_
 
-- [Breakpoints proxy Tool](https://github.com/natlaxmat/web/blob/main/1.Breakpoints_web.mp4) for [the Task 1](https://github.com/natlaxmat/web/blob/main/Task_1.txt)
+- [Breakpoints proxy Tool](https://github.com/natlaxmat/web/blob/main/1.Breakpoints_web.mp4) for the [Task 1](https://github.com/natlaxmat/web/blob/main/Task_1.txt)
 
-- [Rewrite Tool](https://github.com/natlaxmat/web/blob/main/2.Rewrite_web.mp4) for [the Task 2](https://github.com/natlaxmat/web/blob/main/Task_2.txt)
+- [Rewrite Tool](https://github.com/natlaxmat/web/blob/main/2.Rewrite_web.mp4) for the [Task 2](https://github.com/natlaxmat/web/blob/main/Task_2.txt)
 
-- [Map remote Tool](https://github.com/natlaxmat/web/blob/main/3.Map%20remote_web.mp4) for [the Task 3](https://github.com/natlaxmat/web/blob/main/Task_3.txt)
+- [Map remote Tool](https://github.com/natlaxmat/web/blob/main/3.Map%20remote_web.mp4) for the [Task 3](https://github.com/natlaxmat/web/blob/main/Task_3.txt)
