@@ -3,7 +3,7 @@
 
 _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) and created various types of test documentation:_
 
-- [Test plan](https://drive.google.com/file/d/15xhy3YdN_thE8xiMYBD0UvBv8j7X0BMN/view?usp=sharing) to discribe the testing strategy and scope, objectives, test types, resources, schedule, and entry/exit criteria. It defines what will be tested, how, when, and by whom.
+- [Test plan](https://drive.google.com/file/d/15xhy3YdN_thE8xiMYBD0UvBv8j7X0BMN/view?usp=sharing) to describe the testing strategy and scope, objectives, test types, resources, schedule, and entry/exit criteria. It defines what will be tested, how, when, and by whom.
 
 - [Checklist](https://docs.google.com/spreadsheets/d/1JSr7-QDefEhA3EuwYRQ9RDDXSCT-j5sF8ssgT62qvXI/edit?gid=0#gid=0&range=A73:A93) for testing the Cart and Payment modules.
  
