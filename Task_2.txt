@@ -1,2 +1,0 @@
-Simulate a situation where the server returns status code 403 when accessing
-https://demoshopping.ru. Remember that requests to other resources should work normally.
