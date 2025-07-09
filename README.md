@@ -11,7 +11,7 @@ _I worked on testing the web store [demoshopping.ru](https://demoshopping.ru/) a
 
 - [Test run via QASE](https://drive.google.com/file/d/1j8LUaghOByJ_PDjubDVOl27W_XenPmuA/view?usp=sharing) for the Cart and Payment modules.
 
-- [Bug Report example via YouTrack](https://github.com/natlaxmat/web/blob/main/Web_app_testing_docs.xlsx) for the Cart and Payment modules.
+- [Bug Report example via YouTrack](https://drive.google.com/file/d/1Qqi4O_2H3rRBmDAVWrbSK7lFwZDM8gVR/view?usp=sharing) for the Cart and Payment modules.
 
 
 ## **Interception and modification of traffic** ## 
